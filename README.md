@@ -1,9 +1,6 @@
-# markets
-markets api
+# coinflex markets api
 
-# coinflex-api
-coinflex api
-# 根路径 未带有@Headers，默认为({"User-Agent:android", "Content-Type:application/json", "Accept:application/json"})  
+## 根路径 未带有@Headers，默认为({"User-Agent:android", "Content-Type:application/json", "Accept:application/json"})  
 ```
 //    String RootUrl = "https://webapi.coinflex.com/";//正式环境  
     String RootUrl = "https://stgwebapi.coinflex.com/";//测试环境  
